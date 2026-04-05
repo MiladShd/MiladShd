@@ -51,6 +51,7 @@ If you're building with AI agents or trying to get your eng team to actually del
 with LLMs (not just generate more code), let's talk.
 
 <p align="center">
+  <a href="https://miladblog.com/"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/milad-shaddelan/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/MiladShd"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
