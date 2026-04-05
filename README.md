@@ -37,7 +37,7 @@ Most AI tools stop at generation. I'm building the full loop: **orchestration, v
 ```python
 products = {
     "qalib":   "AI dev orchestration — PM, Coder, and QC agents that plan, build, and validate code autonomously",
-    "lynurl":  "Full-stack URL shortener — Flutter + Cloudflare Workers + Redis",
+    "lynurl":  "Full-stack URL shortener — React + Cloudflare Workers + Redis",
     "...":     "2026 is going to be busy",
 }
 ```
