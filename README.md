@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Milad Shaddelan</strong><br/>
-  <code>Founder</code> &nbsp;|&nbsp; <code>Engineer @ Hedge Fund</code> &nbsp;|&nbsp; <code>Artist</code> &nbsp;|&nbsp; <code>Cat Dad</code>
+  <code>Founder</code> &nbsp;|&nbsp; <code>Engineer @ Hedge Fund</code> &nbsp;|&nbsp; <code>Artist</code> &nbsp;|&nbsp; <code>Avid Reader</code> &nbsp;|&nbsp; <code>Cat Dad</code>
 </p>
 
 <p align="center">
