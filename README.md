@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=AI+can+generate+code.;But+generating+code+isn't+shipping+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=AI+can+generate+code.;+But+generating+code+isn't+shipping+software." alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <strong>Milad Shaddelan</strong><br/>
-  <code>Data Engineer @ Hedge Fund</code> &nbsp;|&nbsp; <code>AI Infrastructure Builder</code> &nbsp;|&nbsp; <code>Founder</code>
+  <code>Founder</code> &nbsp;|&nbsp; <code>Engineer</code> &nbsp;|&nbsp; <code>Artist</code> &nbsp;|&nbsp; <code>Cat Dad</code>
 </p>
 
 <p align="center">
