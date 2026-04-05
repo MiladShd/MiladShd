@@ -22,11 +22,13 @@
 
 ---
 
-### The Problem I'm Solving
+### What I Believe
 
-The industry talks about 10x productivity with AI coding tools. The most rigorous research shows developers *feel* 20% faster while actually working **19% slower**. The missing layer? **Orchestration** — planning, validation, quality gates — the infrastructure between "AI wrote it" and "it's in production."
+The future of software development isn't developers writing code faster — it's **AI agents that plan, build, and validate code autonomously**, with humans steering the architecture and the product vision.
 
-> I build that infrastructure.
+Most AI tools stop at generation. I'm building the full loop: **orchestration, validation, and quality gates** — the infrastructure between "AI wrote it" and "it's in production."
+
+> The last generation of developers won't write code. They'll architect systems that write, test, and ship it.
 
 ---
 
