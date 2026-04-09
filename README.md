@@ -24,11 +24,11 @@
 
 ### What I Believe
 
-The future of software development isn't developers writing code faster — it's **AI agents that plan, build, and validate code autonomously**, with humans steering the architecture and the product vision.
+AI won't replace developers — it'll make every developer a project manager of an army of agents. I've seen this pattern before: in civil engineering, a project succeeds when it's **planned in enough detail that any qualified team can execute the scope**. The materials set the constraints. The plan sets the outcome.
 
-Most AI tools stop at generation. I'm building the full loop: **orchestration, validation, and quality gates** — the infrastructure between "AI wrote it" and "it's in production."
+Software is catching up. When you break work into well-scoped tasks with clear constraints, AI agents execute like an ant colony — fast, parallel, and reliable. Most people focus on making AI write code. I'm focused on **the orchestration that turns generated code into shipped software**: planning, validation, and quality gates.
 
-> The last generation of developers won't write code. They'll architect systems that write, test, and ship it.
+> AI didn't kill my job. It gave me leverage to build at a speed I never thought possible.
 
 ---
 
