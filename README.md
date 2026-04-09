@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=AI+can+generate+code.;+But+generating+code+isn't+shipping+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=The+hard+part+was+never+writing+code.;It's+shipping+it." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -32,23 +32,20 @@ Software is catching up. When you break work into well-scoped tasks with clear c
 
 ---
 
-### Shipping Soon
+### What I'm Building
 
 ```python
 products = {
-    "qalib":   "AI dev orchestration — PM, Coder, and QC agents that plan, build, and validate code autonomously",
-    "lynurl":  "Full-stack URL shortener — React + Cloudflare Workers + Redis",
-    "...":     "2026 is going to be busy",
+    "qalib":   "Your AI team writes code. Qalib makes sure it actually works before it hits production.",
+    "lynurl":  "URL shortener — built mostly by agents as a proof of concept for the workflow above",
 }
 ```
 
 ---
 
-### Open Door
+### Let's Talk
 
-I help developers and teams **ship products with AI** — quick, secure, and cheap.
-If you're building with AI agents or trying to get your eng team to actually deliver
-with LLMs (not just generate more code), let's talk.
+If you're figuring out how to actually **ship with AI agents** — not just generate code but get it to production — I'm always down to compare notes. Building in the open and happy to jam on ideas.
 
 <p align="center">
   <a href="https://miladblog.com/"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
